@@ -12,7 +12,7 @@
     "green",
     "orange"
   ],
-  "repository": "https://github.com/atom/isasa-dark-syntax",
+  "repository": "https://github.com/kcmr/isasa-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
