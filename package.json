@@ -1,0 +1,20 @@
+{
+  "name": "isasa-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Another dark syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cyan",
+    "blue",
+    "purple",
+    "green",
+    "orange"
+  ],
+  "repository": "https://github.com/atom/isasa-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
